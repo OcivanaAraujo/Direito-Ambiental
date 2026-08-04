@@ -66,11 +66,11 @@ Em desenvolvimento.
 Novas legislações, resumos e materiais serão adicionados continuamente.
 
 🛠️ Ferramentas Utilizadas
-GitHub
-Git
-Gemini Notebook
-Gemini
-Markdown
+- **GitHub:** armazenamento, versionamento e organização do projeto.
+- **Git:** controle de versões.
+- **Gemini Notebook:** organização e exploração interativa das fontes selecionadas.
+- **Gemini:** apoio à aprendizagem, elaboração e refinamento de prompts.
+- **Markdown:** documentação e estruturação do conteúdo.
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT.
