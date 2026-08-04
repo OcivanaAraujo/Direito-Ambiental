@@ -1,0 +1,1 @@
+Lei Geral Pertinente
