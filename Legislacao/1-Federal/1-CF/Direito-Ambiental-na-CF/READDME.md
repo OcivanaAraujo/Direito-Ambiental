@@ -1,0 +1,57 @@
+# Direito Ambiental na Constituição Federal
+
+A apresentação do Direito Ambiental na Constituição Federal de 1988 (CF/88) é tão robusta que a doutrina frequentemente a denomina como a **"Constituição Verde"**. Pela primeira vez na história constitucional brasileira, o meio ambiente recebeu um capítulo próprio e foi elevado à categoria de direito fundamental de terceira geração.
+
+Abaixo, apresento um resumo estruturado da presença do tema na Lei Maior:
+
+### 📜 Identificação e Localização
+
+O Direito Ambiental não está restrito a um único ponto, mas irradia por todo o texto constitucional:
+*   **Núcleo Central:** Capítulo VI do Título VIII ("Da Ordem Social"), especificamente no **Artigo 225**.
+*   **Competências:** Artigos 23 (administrativa) e 24 (legislativa).
+*   **Ordem Econômica:** Artigo 170, inciso VI.
+*   **Propriedade e Função Social:** Artigos 5º, XXIII, 182 e 186, II.
+*   **Instrumentos Processuais:** Artigos 5º, LXXIII (Ação Popular) e 129, III (Ação Civil Pública).
+
+---
+
+### 💡 Conceito e Conteúdo (Artigo 225)
+
+**O que diz:** "Todos têm direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao Poder Público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações".
+
+**🔎 Análise dos principais pontos:**
+1.  **Natureza Jurídica:** O meio ambiente é definido como um **bem de uso comum do povo**, o que significa que não é um bem público propriamente (do Estado) nem privado, mas de interesse difuso e transindividual.
+2.  **Solidariedade Intergeracional:** A CF/88 estabelece o dever de preservação não apenas para quem vive hoje, mas para as **futuras gerações**.
+3.  **Deveres do Poder Público (§ 1º):** Para assegurar esse direito, o Estado deve:
+    *   Preservar e restaurar processos ecológicos essenciais.
+    *   Exigir o **Estudo Prévio de Impacto Ambiental (EIA)** para atividades potencialmente degradantes.
+    *   Promover a **Educação Ambiental** em todos os níveis de ensino.
+    *   Proteger a fauna e a flora, proibindo práticas que submetam animais a crueldade.
+
+---
+
+### ⚖️ Sanções e Responsabilidade (§ 3º)
+
+A CF/88 inovou ao prever a **tríplice responsabilidade** ambiental. As condutas lesivas sujeitam o infrator (pessoa física ou jurídica) a sanções:
+*   **Penais** (crimes);
+*   **Administrativas** (multas, embargos);
+*   **Civis** (obrigação de reparar o dano, independentemente das outras penas).
+
+---
+
+### 📌 Pontos-chave e Competências
+
+*   **Competência Comum (Art. 23):** União, Estados, DF e Municípios têm o dever administrativo de proteger o meio ambiente, combater a poluição e preservar as florestas.
+*   **Competência Concorrente (Art. 24):** União (normas gerais), Estados e DF podem legislar sobre proteção ambiental e controle da poluição.
+*   **Patrimônio Nacional (§ 4º):** A Floresta Amazônica, a Mata Atlântica, a Serra do Mar, o Pantanal Mato-Grossense e a Zona Costeira são declarados patrimônio nacional.
+*   **Desenvolvimento Sustentável (Art. 170):** A defesa do meio ambiente é um princípio da ordem econômica, permitindo tratamento diferenciado conforme o impacto ambiental de produtos e serviços.
+
+---
+
+### 🧠 Para memorizar
+
+A CF/88 transformou o meio ambiente em um **direito-dever**: um direito do cidadão e um dever compartilhado entre Estado e sociedade. Ela garante que o desenvolvimento econômico não pode ocorrer às custas da destruição ecológica, exigindo prevenção (EIA) e reparação de danos.
+
+**🟢 Caiu em prova:** O Art. 225 é o dispositivo mais cobrado em concursos, especialmente sobre a natureza de "bem de uso comum", a exigência de lei para alteração de espaços protegidos e a tríplice responsabilidade.
+
+**🔗 Fontes utilizadas:** CF/88 (Arts. 5, 23, 24, 129, 170 e 225).
