@@ -4,7 +4,7 @@ Um caderno inteligente de Direito Ambiental desenvolvido com o Gemini NotebookLM
 📖 Sobre o Projeto
 Este repositório foi desenvolvido como parte de um desafio da Digital Innovation One (DIO), explorando o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
 
-O projeto tem como finalidade construir um Caderno Inteligente de Direito Ambiental utilizando o Google NotebookLM, reunindo fontes oficiais, legislação ambiental brasileira, documentos técnicos, resumos estruturados e prompts reutilizáveis para facilitar os estudos e a consulta rápida de informações confiáveis.
+O projeto tem como finalidade construir um Caderno Inteligente de Direito Ambiental utilizando o Gemini NotebookLM, reunindo fontes oficiais, legislação ambiental brasileira, documentos técnicos, resumos estruturados e prompts reutilizáveis para facilitar os estudos e a consulta rápida de informações confiáveis.
 
 Além de atender ao desafio proposto, este repositório foi concebido para evoluir como uma biblioteca digital de apoio aos estudos em Direito Ambiental.
 
