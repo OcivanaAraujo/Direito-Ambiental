@@ -44,5 +44,5 @@ Decisões e entendimentos dos tribunais brasileiros relacionados ao Direito Ambi
 
 ### 🏠 Voltar ao projeto
 
-⬅️ **[Voltar para a página principal](Direito-ambiental-na-palma-da-mao/)**
+[🏠 Página principal](../../README.md)
 
