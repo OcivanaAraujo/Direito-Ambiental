@@ -44,5 +44,5 @@ Decisões e entendimentos dos tribunais brasileiros relacionados ao Direito Ambi
 
 ### 🏠 Voltar ao projeto
 
-[🏠 Página principal](../../README.md)
+[⬅️ Voltar para a página principal](../README.md)
 
