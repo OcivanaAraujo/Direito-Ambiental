@@ -1,5 +1,5 @@
 📚 Direito Ambiental na Palma da Mão
-Um caderno inteligente de Direito Ambiental desenvolvido com o Google NotebookLM para reunir legislação, documentos oficiais, resumos e prompts de estudo em um único ambiente de aprendizagem.
+Um caderno inteligente de Direito Ambiental desenvolvido com o Gemini NotebookLM para reunir legislação, documentos oficiais, resumos e prompts de estudo em um único ambiente de aprendizagem.
 
 📖 Sobre o Projeto
 Este repositório foi desenvolvido como parte de um desafio da Digital Innovation One (DIO), explorando o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
@@ -68,9 +68,10 @@ Novas legislações, resumos e materiais serão adicionados continuamente.
 🛠️ Ferramentas Utilizadas
 GitHub
 Git
-Google NotebookLM
+Gemini NotebookLM
 Gemini
 Markdown
+
 📄 Licença
 Este projeto está licenciado sob a Licença MIT.
 
